@@ -10,8 +10,8 @@
 - 📫 How to reach me: DM me on insta rahul_dewangan_b777
 - 😄 Pronouns: He/His
 
-<div display ="flexbox">
-<img width="450px" height="295px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
+
+<img width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewangan&&show_icons=true&title_color=007FF2&icon_color=007FF2&text_color=daf7dc&bg_color=000000">
-</div>
+
