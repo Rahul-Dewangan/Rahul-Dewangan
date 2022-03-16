@@ -13,5 +13,5 @@
 
 <img width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<img width="380px" src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewangan&&show_icons=true&title_color=007FF2&icon_color=007FF2&text_color=daf7dc&bg_color=000000">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Rahul-Dewangan&&show_icons=true&title_color=007FF2&icon_color=007FF2&text_color=daf7dc&bg_color=000000">
 
