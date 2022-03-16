@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with GDSC BITD and Developers community
 - 🤔 I’m looking for help with flutter, UI/UX
 - 💬 Ask me about Web Development, Android development & UI/UX
-- 📫 How to reach me: DM me on insta rahul_dewangan_b777
+- 📫 How to reach me: Instagram - rahul_dewangan_b777, Gmail - rahuldewangan1702@gmail.com.
 - 😄 Pronouns: He/His
 
 
