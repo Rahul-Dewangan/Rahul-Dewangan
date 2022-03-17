@@ -3,10 +3,10 @@
 ## Hi there, I am Rahul Dewangan 👋
 
 - 🔭 I’m currently working on an App which takes an input from API and shows on App. The app shows the data of the vehicle like speed, fuel level etc. 
-- 🌱 I’m currently learning flutter, Android studio and Wix.
-- 👯 I’m looking to collaborate with GDSC BITD and Developers community
-- 🤔 I’m looking for help with flutter, UI/UX
-- 💬 Ask me about Web Development, Android development & UI/UX
+- 🌱 I’m currently learning *flutter, Android studio and Wix.
+- 👯 I’m looking to collaborate with *GDSC BITD and Developers community
+- 🤔 I’m looking for help with *flutter, UI/UX
+- 💬 Ask me about **Web Development, Android development & UI/UX
 - 📫 How to reach me: Instagram - rahul_dewangan_b777, Gmail - rahuldewangan1702@gmail.com.
 - 😄 Pronouns: He/His
 
